@@ -1,4 +1,3 @@
-# Real-estate App
 
 ## Getting Started
 <img src = https://user-images.githubusercontent.com/79464470/165926419-d468801f-69df-4ca9-b60a-f91d3cdc2216.png width=400/>
